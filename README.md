@@ -15,7 +15,7 @@ def hello_world():
     return "<p>Hello, World!</p>"
 
 ```
-```
+```Python
 from flask import Flask,request
 
 app = Flask(__name__) 
