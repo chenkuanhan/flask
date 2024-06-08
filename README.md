@@ -59,8 +59,7 @@ def hello_world():
 ## memo
 1. copy .venv file
 2. copy .git file
-3. pip install flask
-4. pip install Flask
+## 比較
 5. flask --app app run
 6. flask run
 7. python -m flask --app <filename> run
