@@ -16,6 +16,14 @@ def hello_world():
 
 ```
 ```Python
+'''
+pip install flask
+pip install Flask
+
+'''
+
+
+
 from flask import Flask,request
 
 app = Flask(__name__) 
@@ -26,6 +34,8 @@ def hello_world():
   name = request.args.get("name")
   name = request.form.get("name")
   return "<p>hello.html</p>"
+  
+
 
 
 ```
