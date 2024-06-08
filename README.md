@@ -32,7 +32,14 @@ def hello_world():
 # cheat sheet
 
 1. 建立existing repository(local repository)同樣也一定是從README.md檔案開始
-
+## memo
+1. copy .venv file
+2. copy .git file
+3. pip install flask
+4. pip install Flask
+5. flask --app app run
+6. flask run
+7. python -m flask --app <filename> run
 ```
 Windows PowerShell
 著作權（C） Microsoft Corporation。保留擁有權利。
